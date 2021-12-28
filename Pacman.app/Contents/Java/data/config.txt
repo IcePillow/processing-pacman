@@ -1,0 +1,6 @@
+pixelsPerTile = 20 //don't change this (default int 20)
+peaceMode = false //true means ghosts can't kill players (default boolean false)
+maxSpeed = 2.4 //top pac speed in pixels/frame (default float 2.4)
+freezeTimeLength = 60 //time entities freeze when pac eats a ghost in frames (default int 60)
+framesPerWiggle = 11 //time in frames between ghost draw states (default int 11)
+setFrameRate = 60 //frames per second (default int 60)
